@@ -1,4 +1,4 @@
-Task Collection
+# Task Collection
 
 ## Objective
 Using JavaScript and Vue, your assignment is to implement a responsive task viewer component.
