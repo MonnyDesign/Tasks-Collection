@@ -1,10 +1,10 @@
-# MaxComply Frontend Code Challenge
+Task Collection
 
 ## Objective
 Using JavaScript and Vue, your assignment is to implement a responsive task viewer component.
 
 ## Brief
-The design team have created rough mockups of the new task viewer screen. Your task is to build out the project using the designs inside the `/design` folder as a guide. You can use any vue component framework to help you complete the challenge. 
+Build out the project using the designs inside the `/design` folder as a guide. You can use any vue component framework to help you complete the challenge. 
 
 ## Tasks
 Implement the assignment using:
@@ -47,14 +47,6 @@ This project is broken down to 4 separate areas:
 - backend: serves as a fake server containing JSON files to simulate API interaction
 - design: mockups of different forms
 - assets: image assets and postman collection to test API
-
-# Delivery
-Please provide a link to a git/bitbucket repository which contains the application code.
-
-# Contact
-if you encounter any issues or have any questions you can contact:
-- Sam: sam.cosgrove@iqeq.com
-- Seamus : seamus.ohiggins@iqeq.com
 
 # Backend Setup
 ## Navigate to Backend Folder
